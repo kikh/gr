@@ -16,7 +16,7 @@ title_separator          : "-"
 name                     : "kikh"
 description              : "Making Interactivity Greek Book."
 url                      : "https://kikh.github.io/gr"
-baseurl                  : "/gr"
+baseurl                  : 
 repository               : "kikh/gr"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
