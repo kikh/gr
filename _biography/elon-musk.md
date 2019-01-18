@@ -2,7 +2,7 @@
 author: kikh
 title: "Elon Musk"
 image_url: /images/elon-musk.jpg
-caption: "O Alan Kay οραματίστηκε το Dynabook και δημιούργησε λογισμικό που διευκολύνει τα παιδιά να μάθουν να σκέφτονται μαζί με τους υπολογιστές"
+caption: "Ο Musk θα αλλάξει τον τρόπο με τον οποίο αλληλεπιδρουε με τους ηλεκτρονικούς υπολογιστες σε καθημερινό επίπεδο και για τις πιο απλές λειτουργίες."
 categories:
   - biography
   - definition
